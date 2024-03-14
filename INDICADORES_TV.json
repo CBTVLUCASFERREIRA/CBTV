@@ -29,6 +29,21 @@
       "url": "https://abre.ai/monitoramentodeavarias",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/cargasemaberto",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/geraltms",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/vvlogexpedicao",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
     }
   ]
 }
