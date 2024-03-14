@@ -11,11 +11,6 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
       "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
