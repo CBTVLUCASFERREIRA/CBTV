@@ -44,6 +44,26 @@
       "url": "https://abre.ai/vvlogexpedicao",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/armpendente",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/pedidoscancelados1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/ressuprimentos",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/carteiradepedidosreg3",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
     }
   ]
 }
