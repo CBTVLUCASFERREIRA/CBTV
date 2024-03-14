@@ -6,22 +6,27 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://shre.ink/PAINELDELARGADA",
+      "url": "https://abre.ai/paineldelargada",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
     },
     {
-      "url": "https://shre.ink/PAINELDEOCUPACAO",
+      "url": "https://abre.ai/paineldeocupacao",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
     },
      {
-      "url": "https://shre.ink/VVLOGDESEMPENHO",
+      "url": "https://abre.ai/vvlogdesempenho",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
     },
     {
-      "url": "https://shre.ink/CARTEIRATRANSPORTADOR",
+      "url": "https://abre.ai/carteiradotransportador",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://abre.ai/monitoramentodeavarias",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
     }
