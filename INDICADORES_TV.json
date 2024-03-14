@@ -19,6 +19,11 @@
       "url": "https://shre.ink/VVLOGDESEMPENHO",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://shre.ink/CARTEIRATRANSPORTADOR",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
     }
   ]
 }
