@@ -1,74 +1,24 @@
 {
-  "settingsReloadIntervalMinutes": 5,
+  "settingsReloadIntervalMinutes": 1,
   "fullscreen": false,
   "autoStart": false,
-  "lazyLoadTabs": true,
-  "closeExistingTabs": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
   "websites": [
     {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/af08073a-d881-42d3-a596-ce7083b1c1a3/ReportSectionf1112df3836b7894b51d?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&experience=power-bi",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/8d9600ba-2e21-4637-9fab-826f0dc1d647?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
+      "url": "https://www.patreon.com/kevdev",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/8d9600ba-2e21-4637-9fab-826f0dc1d647?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/226fc189-af4e-4755-99ad-7f5dbfb9a47d?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/a865d570-4a7a-4618-9174-2104fee4201b?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/f0dde7ab-ae20-4646-8952-f95889cf3706?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/a897cde8-333c-4bca-ba84-cbb14a96d799?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/26d748cd-007a-4bac-813e-509827010c6a?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/301b59d3-495d-4380-93cd-71002bd4eb59?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare&bookmarkGuid=d706df01-4abc-4786-b676-1db4e6f22328",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/facac7b0-a850-4424-9fbe-676bec65e4ce?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/161e3e24-0cdb-4078-996a-071441034816?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/aebb4ca3-32f1-4db0-a2d8-15aebc1daeb9?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/a3597153-4a66-4e44-9e43-30863c1b86a1?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 500
-    },
+      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
   ]
 }
