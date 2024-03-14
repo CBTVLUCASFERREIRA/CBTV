@@ -11,6 +11,11 @@
       "tabReloadIntervalSeconds": 500
     },
     {
+      "url": "https://abre.ai/asapperformance",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
       "url": "https://abre.ai/paineldeocupacao",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
