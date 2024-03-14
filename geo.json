@@ -5,43 +5,9 @@
     "lazyLoadTabs": false,
     "closeExistingTabs": false,
     "websites": [
-    {
+        
+    { "PAINEL DE LARGADA"
       "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/af08073a-d881-42d3-a596-ce7083b1c1a3?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/226fc189-af4e-4755-99ad-7f5dbfb9a47d?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/8d9600ba-2e21-4637-9fab-826f0dc1d647?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/bd9f72c6-b366-4583-8c48-776ebc62b0c8?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/a865d570-4a7a-4618-9174-2104fee4201b?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/a897cde8-333c-4bca-ba84-cbb14a96d799?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/f0dde7ab-ae20-4646-8952-f95889cf3706?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://app.powerbi.com/groups/d6caa409-c282-4066-9d83-0b70b54266de/reports/c3331da7-7802-4c16-9ec0-0f6a02f5274b?ctid=5a86b3fb-4213-49cd-b4d6-be91482ad3c0&pbi_source=linkShare",
       "duration": 180,
       "tabReloadIntervalSeconds": 300
     }
