@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://abre.ai/indicadoresnortenordeteste1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
       "url": "https://abre.ai/paineldelargada",
       "duration": 60,
       "tabReloadIntervalSeconds": 500
