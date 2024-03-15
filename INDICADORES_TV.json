@@ -7,67 +7,67 @@
   "websites": [
     {
       "url": "https://abre.ai/paineldelargada",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/asapperformance",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/paineldeocupacao",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
      {
       "url": "https://abre.ai/vvlogdesempenho",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/carteiradotransportador",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/monitoramentodeavarias",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/cargasemaberto",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/geraltms",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/vvlogexpedicao",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/armpendente",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/pedidoscancelados1",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/ressuprimentos",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     },
     {
       "url": "https://abre.ai/carteiradepedidosreg3",
-      "duration": 60,
+      "duration": 190,
       "tabReloadIntervalSeconds": 500
     }
   ]
