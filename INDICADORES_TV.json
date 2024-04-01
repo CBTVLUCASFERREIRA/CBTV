@@ -1,10 +1,15 @@
 {
   "settingsReloadIntervalSeconds": 30,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": false,
-  "lazyLoadTabs": true,
+  "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+    {
+    "url": "https://www.canva.com/design/DAF_hMPZzwg/aBkIRS1FukLRtULFsa6Ujw/view?utm_content=DAF_hMPZzwg&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "duration": 190
+    },
+    
     {
       "url": "https://abre.ai/paineldelargada",
       "duration": 190,
@@ -69,10 +74,6 @@
       "url": "https://abre.ai/carteiradepedidosreg3",
       "duration": 190,
       "tabReloadIntervalSeconds": 500
-    },
-    {
-      "url": "https://www.canva.com/design/DAF_hMPZzwg/aBkIRS1FukLRtULFsa6Ujw/view?utm_content=DAF_hMPZzwg&utm_campaign=designshare&utm_medium=link&utm_source=editor",
-      "duration": 190
     }
   ]
 }
